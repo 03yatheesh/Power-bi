@@ -2,7 +2,7 @@
 
 ### 🛠️ Tools Used  
 Power BI  
-Excel (or any other data source)  
+Excel 
 
 ### 🚀 Key Highlights  
 Designed and developed an interactive Power BI dashboard to analyze mobile sales trends across regions, product categories, and time periods.  
